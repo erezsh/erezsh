@@ -5,14 +5,14 @@
 - [Runtype](https://github.com/erezsh/runtype), a collection of run-time type utilities including validation and multiple dispatch. 
 - Many more!
 
-👩‍💻 My stack is Python for everything, and Svelte for webdev. But I have experience with many others.
+👩‍💻 My stack is Python for everything, and Svelte+Typescript for webdev. I also write in C++, Rust, Julia, and many others.
 
 🌎 I'm living the life of a digital nomad; I spend a lot of my time in Amsterdam.
 
-👅 I speak Hebrew, English and some Spanish.
-
-🎮 I play Chess, and dabble in Rocket League and Starcraft (Remastered).
+👅 I speak Hebrew, English and pocito de Spanish.
 
 💞️ I’m looking to collaborate! Let me know if you have a cool project in mind, or want to help with one of mine. I'm especially interested in programming languages, the semantic-web, machine learning, static analysis, and recommendation systems.
 
-👷‍♂️ I am a freelancer, and may be available for hire for cool and interesting projects, both open-source and proprietry.
+👷‍♂️ I am a freelancer, and may be available for hire for cool and interesting projects, either open-source and proprietry.
+
+🔗 Would you like to know more? Visit [my website](https://www.erezsh.com/professional/).
