@@ -1,6 +1,6 @@
 👋 Welcome to my Github profile! Have a look at my open-source projects:
 - [Lark](https://github.com/lark-parser/lark), an innovative parsing toolkit, that's grown to be the most popular parser in the Python ecosystem!
-- [Data-diff](https://github.com/datafold/data-diff), a tool for cross-database diffing, that was generously funded by [Datafold](https://github.com/datafold/).
+- [Reladiff](https://github.com/erezsh/reladiff), a tool for cross-database diffing, that was generously funded by [Datafold](https://github.com/datafold/).
 - [Preql](https://github.com/erezsh/Preql), an ambitious new programming language that compiles to SQL. (inactive, but I plan to resume working on it some day!)
 - [Runtype](https://github.com/erezsh/runtype), a collection of run-time type utilities including validation and multiple dispatch. 
 - Many more!
