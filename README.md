@@ -9,7 +9,7 @@
 
 🌎 I'm living the life of a digital nomad; I spend a lot of my time in Amsterdam.
 
-👅 I speak Hebrew, English and pocito de Spanish.
+👅 I speak Hebrew, English and un poquito de Spanish.
 
 💞️ I’m looking to collaborate! Let me know if you have a cool project in mind, or want to help with one of mine. I'm especially interested in programming languages, the semantic-web, machine learning, static analysis, and recommendation systems.
 
