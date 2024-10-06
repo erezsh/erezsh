@@ -14,6 +14,7 @@ I'm especially proud of these projects:
 Other interesting projects:
 - [Preql](https://github.com/erezsh/Preql) is an ambitious new programming language that compiles to SQL. It aims to bridge the gap between modern programming and databases (inactive, but I plan to resume working on it some day!)
 - [Sqeleton](https://github.com/erezsh/sqeleton) is a Python library for efficiently interacting and querying SQL databases. It is still incomplete, but I believe it could one day become a great alternative to SQLAlchemy. (except Sqeleton is not an ORM). It is already used by Reladiff.
+- [PyBW](https://github.com/crass/PyBW) - Python bindings for programming Starcraft:Broodwar playing agents. I created it in 2009 using SWIG. (The link is to a fork, because the original google-code repo no longer exists.)
 
 👩‍💻 My stack is Python for everything, and Svelte+Typescript for webdev. I also like Rust & Julia.
 
